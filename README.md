@@ -62,3 +62,16 @@ Estruturas avançadas para mapeamento e relações.
 
 > **Por que C?**
 > A escolha da linguagem C foi intencional para permitir o controle total sobre a memória e entender o custo computacional de cada abstração, algo que linguagens de alto nível muitas vezes escondem.
+
+---
+
+## 🚀 Como Compilar e Rodar
+
+Como os códigos são independentes, você pode compilar qualquer estrutura individualmente usando o GCC.
+
+```bash
+# Exemplo genérico de compilação
+gcc nome_do_arquivo.c -o saida
+
+# Executando
+./saida
